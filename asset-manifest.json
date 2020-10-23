@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.90b8134d.chunk.css",
-    "main.js": "/static/js/main.44b4fbbe.chunk.js",
-    "main.js.map": "/static/js/main.44b4fbbe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2e518a30.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2e518a30.js.map",
-    "static/js/2.69eb1ab5.chunk.js": "/static/js/2.69eb1ab5.chunk.js",
-    "static/js/2.69eb1ab5.chunk.js.map": "/static/js/2.69eb1ab5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9757ab263f105b2f91a3bf5717184f69.js": "/precache-manifest.9757ab263f105b2f91a3bf5717184f69.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.90b8134d.chunk.css.map": "/static/css/main.90b8134d.chunk.css.map",
-    "static/js/2.69eb1ab5.chunk.js.LICENSE.txt": "/static/js/2.69eb1ab5.chunk.js.LICENSE.txt",
-    "static/media/address.svg": "/static/media/address.5c53ce6e.svg",
-    "static/media/phone.svg": "/static/media/phone.e5a73ee7.svg",
-    "static/media/rembrandt.png": "/static/media/rembrandt.563bc0f8.png"
+    "main.css": "/redsoft/static/css/main.90b8134d.chunk.css",
+    "main.js": "/redsoft/static/js/main.f082ffad.chunk.js",
+    "main.js.map": "/redsoft/static/js/main.f082ffad.chunk.js.map",
+    "runtime-main.js": "/redsoft/static/js/runtime-main.47b6d5ff.js",
+    "runtime-main.js.map": "/redsoft/static/js/runtime-main.47b6d5ff.js.map",
+    "static/js/2.69eb1ab5.chunk.js": "/redsoft/static/js/2.69eb1ab5.chunk.js",
+    "static/js/2.69eb1ab5.chunk.js.map": "/redsoft/static/js/2.69eb1ab5.chunk.js.map",
+    "index.html": "/redsoft/index.html",
+    "precache-manifest.803ba8f71e62f28ded925b5f207b3531.js": "/redsoft/precache-manifest.803ba8f71e62f28ded925b5f207b3531.js",
+    "service-worker.js": "/redsoft/service-worker.js",
+    "static/css/main.90b8134d.chunk.css.map": "/redsoft/static/css/main.90b8134d.chunk.css.map",
+    "static/js/2.69eb1ab5.chunk.js.LICENSE.txt": "/redsoft/static/js/2.69eb1ab5.chunk.js.LICENSE.txt",
+    "static/media/address.svg": "/redsoft/static/media/address.5c53ce6e.svg",
+    "static/media/phone.svg": "/redsoft/static/media/phone.e5a73ee7.svg",
+    "static/media/rembrandt.png": "/redsoft/static/media/rembrandt.563bc0f8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e518a30.js",
+    "static/js/runtime-main.47b6d5ff.js",
     "static/js/2.69eb1ab5.chunk.js",
     "static/css/main.90b8134d.chunk.css",
-    "static/js/main.44b4fbbe.chunk.js"
+    "static/js/main.f082ffad.chunk.js"
   ]
 }
