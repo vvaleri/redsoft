@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redsoft/static/css/main.90b8134d.chunk.css",
-    "main.js": "/redsoft/static/js/main.f082ffad.chunk.js",
-    "main.js.map": "/redsoft/static/js/main.f082ffad.chunk.js.map",
+    "main.js": "/redsoft/static/js/main.4f1ea5fc.chunk.js",
+    "main.js.map": "/redsoft/static/js/main.4f1ea5fc.chunk.js.map",
     "runtime-main.js": "/redsoft/static/js/runtime-main.47b6d5ff.js",
     "runtime-main.js.map": "/redsoft/static/js/runtime-main.47b6d5ff.js.map",
     "static/js/2.69eb1ab5.chunk.js": "/redsoft/static/js/2.69eb1ab5.chunk.js",
     "static/js/2.69eb1ab5.chunk.js.map": "/redsoft/static/js/2.69eb1ab5.chunk.js.map",
     "index.html": "/redsoft/index.html",
-    "precache-manifest.803ba8f71e62f28ded925b5f207b3531.js": "/redsoft/precache-manifest.803ba8f71e62f28ded925b5f207b3531.js",
+    "precache-manifest.0ccaa1de49682ddd555ee8bae6ed9288.js": "/redsoft/precache-manifest.0ccaa1de49682ddd555ee8bae6ed9288.js",
     "service-worker.js": "/redsoft/service-worker.js",
     "static/css/main.90b8134d.chunk.css.map": "/redsoft/static/css/main.90b8134d.chunk.css.map",
     "static/js/2.69eb1ab5.chunk.js.LICENSE.txt": "/redsoft/static/js/2.69eb1ab5.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.47b6d5ff.js",
     "static/js/2.69eb1ab5.chunk.js",
     "static/css/main.90b8134d.chunk.css",
-    "static/js/main.f082ffad.chunk.js"
+    "static/js/main.4f1ea5fc.chunk.js"
   ]
 }
