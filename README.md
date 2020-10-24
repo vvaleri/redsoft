@@ -5,6 +5,7 @@ https://vvaleri.github.io/redsoft
 **Тестовое задание на позицию frontend-разработчика в Redsoft**
 -------------------------
 (файл с заданием https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit#)
+***
 
 > использована конфигурация CRA https://github.com/facebook/create-react-app/tree/master/packages/react-scripts плюс react-app-polyfill для ie11 
 
