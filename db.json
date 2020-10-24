@@ -1,19 +1,19 @@
 [
     {   
-        "img": "../img/venera.png",
+        "img": "https://vvaleri.github.io/redsoft/img/venera.png",
         "alt": "картина Рождение Венеры",
         "name": "«Рождение Венеры» Сандро Боттичелли",
         "discount": "2 000 000 $",
         "price": "1 000 000 $"
     },
     {
-        "img": "../img/leonardo.png",
+        "img": "https://vvaleri.github.io/redsoft/img/leonardo.png",
         "alt": "картина Тайная вечеря",
         "name": "«Тайная вечеря» Леонардо да Винчи",
         "price": "3 000 000 $"
     },
     {
-        "img": "../img/adam.png",
+        "img": "https://vvaleri.github.io/redsoft/img/adam.png",
         "alt": "картина Сотворение Адама",
         "name": "«Сотворение Адама» Микеланджело",
         "discount": "6 000 000 $",
