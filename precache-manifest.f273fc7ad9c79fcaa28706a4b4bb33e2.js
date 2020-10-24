@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "467da49b52c0486ef714747d2ced687c",
+    "revision": "e17bd583013cd30ccbe28f858ea14f27",
     "url": "/redsoft/index.html"
   },
   {
-    "revision": "387b20108231971c4877",
-    "url": "/redsoft/static/css/main.90b8134d.chunk.css"
+    "revision": "3f5fae572c46b336dd7f",
+    "url": "/redsoft/static/css/main.3d327b00.chunk.css"
   },
   {
     "revision": "633556cd7754bd395d3d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redsoft/static/js/2.69eb1ab5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "387b20108231971c4877",
-    "url": "/redsoft/static/js/main.4f1ea5fc.chunk.js"
+    "revision": "3f5fae572c46b336dd7f",
+    "url": "/redsoft/static/js/main.816490dd.chunk.js"
   },
   {
     "revision": "2365c4fd822b1aef05bf",

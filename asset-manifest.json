@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/redsoft/static/css/main.90b8134d.chunk.css",
-    "main.js": "/redsoft/static/js/main.4f1ea5fc.chunk.js",
-    "main.js.map": "/redsoft/static/js/main.4f1ea5fc.chunk.js.map",
+    "main.css": "/redsoft/static/css/main.3d327b00.chunk.css",
+    "main.js": "/redsoft/static/js/main.816490dd.chunk.js",
+    "main.js.map": "/redsoft/static/js/main.816490dd.chunk.js.map",
     "runtime-main.js": "/redsoft/static/js/runtime-main.47b6d5ff.js",
     "runtime-main.js.map": "/redsoft/static/js/runtime-main.47b6d5ff.js.map",
     "static/js/2.69eb1ab5.chunk.js": "/redsoft/static/js/2.69eb1ab5.chunk.js",
     "static/js/2.69eb1ab5.chunk.js.map": "/redsoft/static/js/2.69eb1ab5.chunk.js.map",
     "index.html": "/redsoft/index.html",
-    "precache-manifest.0ccaa1de49682ddd555ee8bae6ed9288.js": "/redsoft/precache-manifest.0ccaa1de49682ddd555ee8bae6ed9288.js",
+    "precache-manifest.f273fc7ad9c79fcaa28706a4b4bb33e2.js": "/redsoft/precache-manifest.f273fc7ad9c79fcaa28706a4b4bb33e2.js",
     "service-worker.js": "/redsoft/service-worker.js",
-    "static/css/main.90b8134d.chunk.css.map": "/redsoft/static/css/main.90b8134d.chunk.css.map",
+    "static/css/main.3d327b00.chunk.css.map": "/redsoft/static/css/main.3d327b00.chunk.css.map",
     "static/js/2.69eb1ab5.chunk.js.LICENSE.txt": "/redsoft/static/js/2.69eb1ab5.chunk.js.LICENSE.txt",
     "static/media/address.svg": "/redsoft/static/media/address.5c53ce6e.svg",
     "static/media/phone.svg": "/redsoft/static/media/phone.e5a73ee7.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.47b6d5ff.js",
     "static/js/2.69eb1ab5.chunk.js",
-    "static/css/main.90b8134d.chunk.css",
-    "static/js/main.4f1ea5fc.chunk.js"
+    "static/css/main.3d327b00.chunk.css",
+    "static/js/main.816490dd.chunk.js"
   ]
 }
