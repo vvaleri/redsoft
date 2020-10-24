@@ -1,7 +1,18 @@
 # redsoft
 
+https://vvaleri.github.io/redsoft
 
 Тестовое задание на позицию frontend-разработчика в Redsoft (файл с заданием https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit#)
+
+&#9672; использована конфигурация CRA https://github.com/facebook/create-react-app/tree/master/packages/react-scripts плюс react-app-polyfill для ie11 
+
+&#9672; файл scss и другие исходники в папке src
+
+&#9672; очистить localstorage можно нажав кнопку "найти" рядом со строкой поиска
+
+
+
+--текст задания--
 
 Необходимо сверстать макет страницы интернет-магазина: https://www.figma.com/file/p5xYvZV5Vy9cZvWzkL7uk5/Redsoft-test?node-id=0%3A1
 
