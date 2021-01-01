@@ -1,13 +1,15 @@
 # redsoft
 
-https://vvaleri.github.io/redsoft
+[что получилось](https://vvaleri.github.io/redsoft)
 
 **Тестовое задание на позицию frontend-разработчика в Redsoft**
 -------------------------
-(файл с заданием https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit#)
+([файл с заданием](https://docs.google.com/document/d/1Vamqwl3MaXDFOMcEBTVsvoZhADblO-CcBVqVKs3Pij0/edit#))
 
 
-- использована конфигурация CRA https://github.com/facebook/create-react-app/tree/master/packages/react-scripts плюс react-app-polyfill для ie11 
+- тестовое сделано для практики работы с реактом. Собственно, поэтому нарушен первый пункт про vue-cli
+
+- конфигурация [CRA](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts) плюс добавила react-app-polyfill для ie11 
 
 - файл scss и другие исходники в папке src
 
@@ -18,7 +20,7 @@ https://vvaleri.github.io/redsoft
 ***
 --*текст задания*--
 
-Необходимо сверстать макет страницы интернет-магазина: https://www.figma.com/file/p5xYvZV5Vy9cZvWzkL7uk5/Redsoft-test?node-id=0%3A1
+Необходимо сверстать [макет](https://www.figma.com/file/p5xYvZV5Vy9cZvWzkL7uk5/Redsoft-test?node-id=0%3A1) страницы интернет-магазина
 
 Технические требования:
 
